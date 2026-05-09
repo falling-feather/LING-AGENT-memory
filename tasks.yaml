@@ -1,5 +1,11 @@
-- id: 202605091530_demo
+﻿- id: 202605091530_demo
   title: 示例任务：准备周一例会材料
   status: done
   deadline: '2026-05-10T00:37:47+08:00'
   notes: 把关键数据和风险点整理成 1 页
+
+- id: e2e-mvp2-010422
+  title: MVP-2 端到端验收任务
+  status: todo
+  deadline: 2026-05-10T01:06:22+08:00
+  notes: 应触发 4 条 fixed reminder + 4 条 push_log skipped + 写回 done
