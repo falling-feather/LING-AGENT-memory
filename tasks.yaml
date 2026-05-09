@@ -3,9 +3,3 @@
   status: done
   deadline: 2026-05-11T10:00:00+08:00
   notes: 把关键数据和风险点整理成 1 页
-
-- id: e2e-near-225640
-  title: 端到端测试任务（2 分钟后到期）
-  status: todo
-  deadline: 2026-05-09T22:58:40+08:00
-  notes: 应让 scheduler 立刻触发 4 条 reminders（1440/240/60/15 全部过期）
