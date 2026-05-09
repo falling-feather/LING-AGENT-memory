@@ -1,0 +1,7 @@
+# index/ 是服务端 SQLite 等机器产物，可删重建，不入库
+index/*
+!index/.gitkeep
+
+# 服务端如果不慎把 git 配置/锁文件留下也忽略
+.DS_Store
+Thumbs.db
